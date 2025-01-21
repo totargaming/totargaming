@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvis (AKA Totar) </h1>
-<h3 align="center">A passionate programmer eager to solve life's problems and help the underprivileged.</h3>
+<h3 align="center">I Want A Job!</h3>
 
 
 - 🔭 I’m currently working on [Fanta Create]([https://github.com/totargaming/fanta-create](https://github.com/totargaming/fanta-create))
